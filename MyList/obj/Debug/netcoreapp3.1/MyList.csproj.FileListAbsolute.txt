@@ -1,0 +1,14 @@
+C:\Users\Omen\Documents\Lab6\MyList\bin\Debug\netcoreapp3.1\MyList.exe
+C:\Users\Omen\Documents\Lab6\MyList\bin\Debug\netcoreapp3.1\MyList.deps.json
+C:\Users\Omen\Documents\Lab6\MyList\bin\Debug\netcoreapp3.1\MyList.runtimeconfig.json
+C:\Users\Omen\Documents\Lab6\MyList\bin\Debug\netcoreapp3.1\MyList.runtimeconfig.dev.json
+C:\Users\Omen\Documents\Lab6\MyList\bin\Debug\netcoreapp3.1\MyList.dll
+C:\Users\Omen\Documents\Lab6\MyList\bin\Debug\netcoreapp3.1\MyList.pdb
+C:\Users\Omen\Documents\Lab6\MyList\obj\Debug\netcoreapp3.1\MyList.csproj.AssemblyReference.cache
+C:\Users\Omen\Documents\Lab6\MyList\obj\Debug\netcoreapp3.1\MyList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omen\Documents\Lab6\MyList\obj\Debug\netcoreapp3.1\MyList.AssemblyInfoInputs.cache
+C:\Users\Omen\Documents\Lab6\MyList\obj\Debug\netcoreapp3.1\MyList.AssemblyInfo.cs
+C:\Users\Omen\Documents\Lab6\MyList\obj\Debug\netcoreapp3.1\MyList.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Documents\Lab6\MyList\obj\Debug\netcoreapp3.1\MyList.dll
+C:\Users\Omen\Documents\Lab6\MyList\obj\Debug\netcoreapp3.1\MyList.pdb
+C:\Users\Omen\Documents\Lab6\MyList\obj\Debug\netcoreapp3.1\MyList.genruntimeconfig.cache
