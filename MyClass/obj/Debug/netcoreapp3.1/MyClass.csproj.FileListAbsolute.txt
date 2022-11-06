@@ -1,0 +1,14 @@
+C:\Users\Omen\Documents\Lab6\MyClass\bin\Debug\netcoreapp3.1\MyClass.exe
+C:\Users\Omen\Documents\Lab6\MyClass\bin\Debug\netcoreapp3.1\MyClass.deps.json
+C:\Users\Omen\Documents\Lab6\MyClass\bin\Debug\netcoreapp3.1\MyClass.runtimeconfig.json
+C:\Users\Omen\Documents\Lab6\MyClass\bin\Debug\netcoreapp3.1\MyClass.runtimeconfig.dev.json
+C:\Users\Omen\Documents\Lab6\MyClass\bin\Debug\netcoreapp3.1\MyClass.dll
+C:\Users\Omen\Documents\Lab6\MyClass\bin\Debug\netcoreapp3.1\MyClass.pdb
+C:\Users\Omen\Documents\Lab6\MyClass\obj\Debug\netcoreapp3.1\MyClass.csproj.AssemblyReference.cache
+C:\Users\Omen\Documents\Lab6\MyClass\obj\Debug\netcoreapp3.1\MyClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omen\Documents\Lab6\MyClass\obj\Debug\netcoreapp3.1\MyClass.AssemblyInfoInputs.cache
+C:\Users\Omen\Documents\Lab6\MyClass\obj\Debug\netcoreapp3.1\MyClass.AssemblyInfo.cs
+C:\Users\Omen\Documents\Lab6\MyClass\obj\Debug\netcoreapp3.1\MyClass.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Documents\Lab6\MyClass\obj\Debug\netcoreapp3.1\MyClass.dll
+C:\Users\Omen\Documents\Lab6\MyClass\obj\Debug\netcoreapp3.1\MyClass.pdb
+C:\Users\Omen\Documents\Lab6\MyClass\obj\Debug\netcoreapp3.1\MyClass.genruntimeconfig.cache
